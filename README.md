@@ -15,7 +15,6 @@ A more detailed description goes here. Why does this exist? How do we use it?
   - [Getting Started](#getting-started)
   - [Contributing](#contributing)
   - [Code of Conduct](#code-of-conduct)
-  - [License](#license)
   - [About Upstatement](#about-upstatement)
 
 ## What's in the Box
